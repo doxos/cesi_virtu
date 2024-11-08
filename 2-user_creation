@@ -1,0 +1,11 @@
+Création de Comptes Admin sur Prism Central
+Étape	Description	Détails
+1. Accéder à Prism Central	Connectez-vous à Prism Central avec les identifiants admin.	Login : admin 
+Mot de passe : nx2Tech123!
+2. Accéder aux Paramètres	Dans le tableau de bord, cliquez sur Settings (ou Paramètres).	
+3. Gérer les Utilisateurs	Sélectionnez User Management ou Gestion des Utilisateurs.	
+4. Ajouter un Utilisateur	Cliquez sur + Add User ou + Ajouter un Utilisateur.	
+5. Configurer l'Utilisateur	Remplissez les informations de l’utilisateur :	- Nom d'utilisateur : Choisissez un nom unique 
+- Mot de passe : Choisissez un mot de passe
+6. Assigner le Rôle	Sélectionnez le rôle Admin pour donner des droits complets.	Rôle : Admin
+7. Enregistrer	Cliquez sur Add ou Ajouter pour enregistrer le compte.	
